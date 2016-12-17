@@ -1,0 +1,94 @@
+D:\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe.config
+D:\FinalProject\Shop Inventory Management\bin\Debug\DbConnection.mdf
+D:\FinalProject\Shop Inventory Management\bin\Debug\DbConnection_log.ldf
+D:\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe
+D:\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.pdb
+D:\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csprojResolveAssemblyReference.cache
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddEmployeeForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddItemForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AdminDashboard.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangeAccountForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangePasswordForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EditEmployeeForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EmployeeListForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.LogInForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.InventoryForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PostTypesForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PrintForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ProductTypesForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.Properties.Resources.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.SaleForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ThisDayActivityForm.resources
+D:\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csproj.GenerateResource.Cache
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.exe
+D:\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.pdb
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe.config
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.exe
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.pdb
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\bin\Debug\DbConnection.mdf
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\bin\Debug\DbConnection_log.ldf
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.pdb
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddEmployeeForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddItemForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AdminDashboard.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangeAccountForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangePasswordForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EditEmployeeForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EmployeeListForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.LogInForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.InventoryForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PostTypesForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PrintForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ProductTypesForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.Properties.Resources.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.SaleForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ThisDayActivityForm.resources
+D:\Programming\C#\Project\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csproj.GenerateResource.Cache
+D:\Codes\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe.config
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.exe
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop Inventory Management.pdb
+D:\Codes\FinalProject\Shop Inventory Management\bin\Debug\DbConnection.mdf
+D:\Codes\FinalProject\Shop Inventory Management\bin\Debug\DbConnection_log.ldf
+D:\Codes\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe
+D:\Codes\FinalProject\Shop Inventory Management\bin\Debug\Shop Inventory Management.pdb
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csprojResolveAssemblyReference.cache
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddEmployeeForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddItemForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AdminDashboard.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangeAccountForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangePasswordForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EmployeeListForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.LogInForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.InventoryForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PostTypesForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PrintForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ProductTypesForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.Properties.Resources.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.SaleForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ThisDayActivityForm.resources
+D:\Codes\FinalProject\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csproj.GenerateResource.Cache
+D:\Codes\FinalProjectGit\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe.config
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop Inventory Management.exe
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop Inventory Management.pdb
+D:\Codes\FinalProjectGit\Shop Inventory Management\bin\Debug\DbConnection.mdf
+D:\Codes\FinalProjectGit\Shop Inventory Management\bin\Debug\DbConnection_log.ldf
+D:\Codes\FinalProjectGit\Shop Inventory Management\bin\Debug\Shop Inventory Management.exe
+D:\Codes\FinalProjectGit\Shop Inventory Management\bin\Debug\Shop Inventory Management.pdb
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csprojResolveAssemblyReference.cache
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddEmployeeForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AddItemForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.AdminDashboard.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangeAccountForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ChangePasswordForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.EmployeeListForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.LogInForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.InventoryForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PostTypesForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.PrintForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ProductTypesForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.Properties.Resources.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.SaleForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\Shop_Inventory_Management.ThisDayActivityForm.resources
+D:\Codes\FinalProjectGit\Shop Inventory Management\obj\Debug\ShopInventoryManagement.csproj.GenerateResource.Cache
